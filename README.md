@@ -225,6 +225,8 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 > Heads up: Only works for US airports only, not international.
 
+* [China Visa-Free Entry Rules by Passport](https://chinavisacheck.com/data/china-visa-rules.json)
+
 ## TV Shows
 
 * [Mr. Robot (USA)](http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
